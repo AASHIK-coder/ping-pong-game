@@ -4,9 +4,13 @@ This is ping-pong game implemented using FastAPI and a CLI tool. The game consis
 
 # Example commands to use
 python pong-cli.py start 8000 2000 ("2000" is time intervel)
+
 python pong-cli.py pause 8000 
+
 python pong-cli.py resume 8000 
+
 python pong-cli.py stop 8000 
+
 
 ## Installation
 
