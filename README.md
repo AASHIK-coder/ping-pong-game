@@ -16,5 +16,5 @@ python pong-cli.py stop 8000
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<YOUR_GITHUB_USERNAME>/ping-pong-game.git
+   git clone https://github.com/AASHIK-coder/ping-pong-game
    cd ping-pong-game
