@@ -7,22 +7,13 @@ This is ping-pong game implemented using FastAPI and a CLI tool. The game consis
 - Start, pause, resume, and stop the game
 - Set the interval between pings
 
-# Example commands to use
-python pong-cli.py start 8000 2000 ("2000" is time intervel)
-
-python pong-cli.py pause 8000 
-
-python pong-cli.py resume 8000 
-
-python pong-cli.py stop 8000 
-
-
 ## Installation
 
 ### Step 1: Clone the Repository
    ```bash
    git clone https://github.com/AASHIK-coder/ping-pong-game
    cd ping-pong-game
+```
 
 ### Step 2: Set Up a Virtual Environment
 
@@ -34,6 +25,10 @@ python -m venv venv
 
 Activate the virtual environment:
 
+- On macOS/Linux:
+  ```bash
+  source venv/bin/activate
+  ```
 - On Windows:
   ```bash
   venv\Scripts\activate
